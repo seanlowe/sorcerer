@@ -1,0 +1,8 @@
+http://headerphile.com/sdl2/opengl-part-3-shaders-and-the-rendering-pipeline/#comments
+
+
+headerphile.com/sdl2/opengl-part-4-3d-basics/
+
+
+http://headerphile.com/uncategorized/opengl-matrix-operations/
+
